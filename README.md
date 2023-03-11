@@ -27,4 +27,3 @@ Meu nome é Hellen e eu sou estudante de programação e tecnologia.
 <a href="https://github.com/mgckaled">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mgckaled&show_icons=true&theme=omni" />
 </a>
- 
