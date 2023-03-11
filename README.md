@@ -1,15 +1,30 @@
-## Olá eu sou a Hellen, estudante de programação e tecnologia.
+## ## Olá pessoal, sejam bem vindos ao meu GitHub 👋
+Meu nome é Hellen e eu sou estudante de programação e tecnologia.
 
-<div style="display: inline_block"><br>
 
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+## Linguagens e Tecnologias:
+ <br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git" />
+<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+
  
+ ## Minhas redes:
+<ul>
+  <li>
+<img src="https://user-images.githubusercontent.com/30157522/87161827-6cd77380-c29b-11ea-902a-725eeed60745.png" width="20" alt="Linkedin"> 
+<a href="https://www.linkedin.com/in/iurygdeoliveira/](https://www.linkedin.com/in/hellen-silva-4924644264)" target="_blank" title="My LinkedIn">LinkedIn</a>
+  </li>
+</ul>
+
+
+<a href="https://github.com/mgckaled?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgckaled&theme=omni" />
+</a>
+
+<a href="https://github.com/mgckaled">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mgckaled&show_icons=true&theme=omni" />
+</a>
  
-<div> 
- <a href="https://instagram.com/silvahellen/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hellen-silva-4924644264" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
